@@ -7,7 +7,7 @@ function Subtotal() {
         <div className = "subtotal">
             <p>Subtotal ({basket?.length} items): <strong>$ {basket.reduce((total, item) => {
                 return total + item.price;
-            }, 0)}</strong></p>
+            }, 0).toFixed(2)}</strong></p>
             <small className="subtotal__gift">
                 <input type="checkbox" /> This order contains a gift
             </small>
