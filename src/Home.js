@@ -15,14 +15,14 @@ function Home() {
                     <Product 
                         id = '123456'
                         title = 'AS-IT-IS Nutrition Whey Protein Concentrate 80% Unflavoured, Labdoor Certified (1kg)' 
-                        price = {19.99} 
+                        price = {199.99} 
                         image = 'https://m.media-amazon.com/images/I/514DjbvLP5L._AC_SY200_.jpg'
                         rating = {5}
                     />
                     <Product 
                         id = '234567'
                         title = '(Renewed) Mi Smart Band 5 – India’s No. 1 Fitness Band, 1.1-inch AMOLED Color Display, Magnetic Charging, 2 Weeks Battery Life, Personal Activity Intelligence (PAI), Women’s Health Tracking' 
-                        price = {23.99} 
+                        price = {729.99} 
                         image = 'https://m.media-amazon.com/images/I/31x-J+tVmgS._AC_SY200_.jpg'
                         rating = {3}
                     />
@@ -31,21 +31,21 @@ function Home() {
                     <Product 
                         id = '345678'
                         title = 'boAt Bassheads 100 in Ear Wired Earphones with Mic(Black)' 
-                        price = {11.99} 
+                        price = {499.99} 
                         image = 'https://images-eu.ssl-images-amazon.com/images/I/31IdiM9ZM8L._AC_SX184_.jpg'
                         rating = {2}
                     />
                     <Product 
                         id = '345678'
                         title = 'Pigeon by Stovekraft Favourite Outer Lid Non Induction Aluminium Pressure Cooker, 3 Litres, Silver' 
-                        price = {30.99} 
+                        price = {559.99} 
                         image = 'https://m.media-amazon.com/images/I/51xCU5ylKAL._AC_UL320_.jpg'
                         rating = {3}
                     />
                     <Product
                         id = '456789'
                         title = 'Samsung Galaxy Z Flip3 5G (Cream, 8GB RAM, 256GB Storage) with No Cost EMI/Additional Exchange Offers' 
-                        price = {1,197.94} 
+                        price = {116999.99} 
                         image = 'https://m.media-amazon.com/images/I/71f2I8cltBL._AC_UY218_.jpg'
                         rating = {4}
                     />
@@ -54,7 +54,7 @@ function Home() {
                     <Product
                         id = '567890'
                         title = 'Samsung 34 inch (86.4 cm) LED Curved Computer Monitor - Full HD, Super Slim,VA Panel,HDR 10 - LC34G55TWWWXXL (Black)' 
-                        price = {767.22} 
+                        price = {59999.99} 
                         image = 'https://m.media-amazon.com/images/I/71it2biogSS._AC_UY218_.jpg'
                         rating = {4}
                     />
